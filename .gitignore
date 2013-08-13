@@ -1,2 +1,10 @@
+#ignore all files with text .o and .a
 *.[oa]
+#ignore all files in directory js
 js/
+#ignore all txt files in /doc but not in other directories
+doc/*.txt
+#ignore all txt files in the /doc directory
+doc/**/*.txt
+#ignore TODO file
+/TODO
