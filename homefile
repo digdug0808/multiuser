@@ -4,8 +4,4 @@ call function first();
 
 call function second();
 
-<<<<<<< HEAD
-hello this is mica's file
-=======
-hello this is randy's file
->>>>>>> ebf9daa4ef5fefda96221d4da86cdd8d711248bd
+hello this is mica's and randy's file
